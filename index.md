@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# MATH 240 note
+To review linear algebra anytime
+* [2 December 2019](/MATH240/2December)
+* [25 November 2019](/MATH240/25November)
+* [20 November 2019](/MATH240/20November)
+* [18 November 2019](/MATH240/18November)
+* [15 November 2019](/MATH240/15November)
+* [13 November 2019](/MATH240/13November)
+* [11 November 2019](/MATH240/11November)
+* [8 November 2019](/MATH240/8November)
+* [6 November 2019](/MATH240/6November)
+* [4 November 2019](/MATH240/4November)
+* [1 November 2019](/MATH240/1November)
+* 28 October 2019 (change of basis -- no notes)
+* 25 October 2019 (row/column rank -- no notes)
+* [23 October 2019](/MATH240/23October)
+* [21 October 2019](/MATH240/21October)
+* [18 October 2019](/MATH240/18October)
+* [16 October 2019](/MATH240/16October)
+* [14 October 2019](/MATH240/14October)
+* [11 October 2019](/MATH240/11October)
+* [9 October 2019](/MATH240/9October)
+* [7 October 2019](/MATH240/7October)
+* [4 October 2019](/MATH240/4October)
+* [2 October 2019](/MATH240/2October)
+* [30 September 2019](/MATH240/30September)
+* [23 September 2019](/MATH240/23September)
+* [20 September 2019](/MATH240/20September)
+* [18 September 2019](/MATH240/18September)
+* [16 September 2019](/MATH240/16September)
+* [11 September 2019](/MATH240/11September)
+* [9 September 2019](/MATH240/9September)
+* [6 September 2019](/MATH240/6September)
+* [4 September 2019](/MATH240/4September)
+* [30 August 2019](/MATH240/30August)
+* [28 August 2019](/MATH240/28August)
 
-You can use the [editor on GitHub](https://github.com/Denteyon/LinearAlgebra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Denteyon/LinearAlgebra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+Credit goes to reidbhuntley@gmail.com.
